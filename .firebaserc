@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "triboon-f47a3"
+  },
+  "targets": {
+    "triboon-f47a3": {
+      "hosting": {
+        "tr": [
+          "triboon"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
